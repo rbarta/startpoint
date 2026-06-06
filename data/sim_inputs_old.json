@@ -1,0 +1,27 @@
+{
+  "current_age": 22,
+  "monthly_contribution_today_cad": 950,
+  "index": "SP500",
+  "start_year": 1982,
+  "duration_years": 43,
+  "initial_balance_today_cad": 0,
+  "nest_egg_age": 22,
+  "contribution_model": "career_growth",
+  "income_growth_rate_pct": 2.0,
+  "build_monthly": 600,
+  "balance_monthly": 800,
+  "ease_monthly": 400,
+  "build_end_age": 35,
+  "balance_end_age": 55,
+  "depletion_age": 95,
+  "post_ret_return_pct": 5.0,
+  "inflation_rate_pct": 3.0,
+  "early_years": 10,
+  "life_stage_params": {
+    "build_monthly": 600,
+    "balance_monthly": 800,
+    "ease_monthly": 400,
+    "build_end_age": 35,
+    "balance_end_age": 55
+  }
+}
